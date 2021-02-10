@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Formulario.Infra.CrossCutting.GenericHelpers/1.0.0": {
+        "runtime": {
+          "Formulario.Infra.CrossCutting.GenericHelpers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Formulario.Infra.CrossCutting.GenericHelpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

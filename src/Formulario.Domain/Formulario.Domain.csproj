@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="2.12.0-beta1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="5.0.0" />
+    <ProjectReference Include="..\Formulario.Infra.CrossCutting.Auth\Formulario.Infra.CrossCutting.Auth.csproj" />
+    <ProjectReference Include="..\Formulario.Infra.CrossCutting.GenericHelpers\Formulario.Infra.CrossCutting.GenericHelpers.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Formulario.Infra.Data\Formulario.Infra.Data.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

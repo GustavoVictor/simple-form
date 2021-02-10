@@ -1,0 +1,12 @@
+/home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.CrossCutting.GenericHelpers/bin/Debug/net5.0/Formulario.Infra.CrossCutting.GenericHelpers.deps.json
+/home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.CrossCutting.GenericHelpers/bin/Debug/net5.0/Formulario.Infra.CrossCutting.GenericHelpers.dll
+/home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.CrossCutting.GenericHelpers/bin/Debug/net5.0/ref/Formulario.Infra.CrossCutting.GenericHelpers.dll
+/home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.CrossCutting.GenericHelpers/bin/Debug/net5.0/Formulario.Infra.CrossCutting.GenericHelpers.pdb
+/home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.CrossCutting.GenericHelpers/obj/Debug/net5.0/Formulario.Infra.CrossCutting.GenericHelpers.csprojAssemblyReference.cache
+/home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.CrossCutting.GenericHelpers/obj/Debug/net5.0/Formulario.Infra.CrossCutting.GenericHelpers.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.CrossCutting.GenericHelpers/obj/Debug/net5.0/Formulario.Infra.CrossCutting.GenericHelpers.AssemblyInfoInputs.cache
+/home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.CrossCutting.GenericHelpers/obj/Debug/net5.0/Formulario.Infra.CrossCutting.GenericHelpers.AssemblyInfo.cs
+/home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.CrossCutting.GenericHelpers/obj/Debug/net5.0/Formulario.Infra.CrossCutting.GenericHelpers.csproj.CoreCompileInputs.cache
+/home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.CrossCutting.GenericHelpers/obj/Debug/net5.0/Formulario.Infra.CrossCutting.GenericHelpers.dll
+/home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.CrossCutting.GenericHelpers/obj/Debug/net5.0/ref/Formulario.Infra.CrossCutting.GenericHelpers.dll
+/home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.CrossCutting.GenericHelpers/obj/Debug/net5.0/Formulario.Infra.CrossCutting.GenericHelpers.pdb
