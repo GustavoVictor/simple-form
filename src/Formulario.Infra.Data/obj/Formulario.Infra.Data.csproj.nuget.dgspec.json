@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.Data/Formulario.Infra.Data.csproj": {}
+    "C:\\projetos\\simple-form\\src\\Formulario.Infra.Data\\Formulario.Infra.Data.csproj": {}
   },
   "projects": {
-    "/home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.Data/Formulario.Infra.Data.csproj": {
+    "C:\\projetos\\simple-form\\src\\Formulario.Infra.Data\\Formulario.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.Data/Formulario.Infra.Data.csproj",
+        "projectUniqueName": "C:\\projetos\\simple-form\\src\\Formulario.Infra.Data\\Formulario.Infra.Data.csproj",
         "projectName": "Formulario.Infra.Data",
-        "projectPath": "/home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.Data/Formulario.Infra.Data.csproj",
-        "packagesPath": "/home/gustavo/.nuget/packages/",
-        "outputPath": "/home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.Data/obj/",
+        "projectPath": "C:\\projetos\\simple-form\\src\\Formulario.Infra.Data\\Formulario.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
+        "outputPath": "C:\\projetos\\simple-form\\src\\Formulario.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/gustavo/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -57,7 +57,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -66,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }
