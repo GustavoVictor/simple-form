@@ -4,14 +4,14 @@ stage ('Clean workspace') {
     }
 }
 
-stage ('Git checkout') {
-    steps {
+stage('Git checkout'){
+    steps{
         git branch: 'dev', url: 'https://github.com/GustavoVictor/simple-form.git'
     }
 }
 
-stage ('Restore packages') {
-    steps {
+stage('Restore packages'){
+    steps{
         bat "dotnet restore ${workspace}\\simple-form\\src\\Formulario.Services.Host"
     }
 }
