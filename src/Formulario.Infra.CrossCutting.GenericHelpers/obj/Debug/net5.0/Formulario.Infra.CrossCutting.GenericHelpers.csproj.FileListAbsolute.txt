@@ -10,3 +10,15 @@
 /home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.CrossCutting.GenericHelpers/obj/Debug/net5.0/Formulario.Infra.CrossCutting.GenericHelpers.dll
 /home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.CrossCutting.GenericHelpers/obj/Debug/net5.0/ref/Formulario.Infra.CrossCutting.GenericHelpers.dll
 /home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.CrossCutting.GenericHelpers/obj/Debug/net5.0/Formulario.Infra.CrossCutting.GenericHelpers.pdb
+C:\projetos\simple-form\src\Formulario.Infra.CrossCutting.GenericHelpers\bin\Debug\net5.0\Formulario.Infra.CrossCutting.GenericHelpers.deps.json
+C:\projetos\simple-form\src\Formulario.Infra.CrossCutting.GenericHelpers\bin\Debug\net5.0\Formulario.Infra.CrossCutting.GenericHelpers.dll
+C:\projetos\simple-form\src\Formulario.Infra.CrossCutting.GenericHelpers\bin\Debug\net5.0\Formulario.Infra.CrossCutting.GenericHelpers.pdb
+C:\projetos\simple-form\src\Formulario.Infra.CrossCutting.GenericHelpers\obj\Debug\net5.0\Formulario.Infra.CrossCutting.GenericHelpers.csproj.AssemblyReference.cache
+C:\projetos\simple-form\src\Formulario.Infra.CrossCutting.GenericHelpers\obj\Debug\net5.0\Formulario.Infra.CrossCutting.GenericHelpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\simple-form\src\Formulario.Infra.CrossCutting.GenericHelpers\obj\Debug\net5.0\Formulario.Infra.CrossCutting.GenericHelpers.AssemblyInfoInputs.cache
+C:\projetos\simple-form\src\Formulario.Infra.CrossCutting.GenericHelpers\obj\Debug\net5.0\Formulario.Infra.CrossCutting.GenericHelpers.AssemblyInfo.cs
+C:\projetos\simple-form\src\Formulario.Infra.CrossCutting.GenericHelpers\obj\Debug\net5.0\Formulario.Infra.CrossCutting.GenericHelpers.csproj.CoreCompileInputs.cache
+C:\projetos\simple-form\src\Formulario.Infra.CrossCutting.GenericHelpers\obj\Debug\net5.0\Formulario.Infra.CrossCutting.GenericHelpers.dll
+C:\projetos\simple-form\src\Formulario.Infra.CrossCutting.GenericHelpers\obj\Debug\net5.0\refint\Formulario.Infra.CrossCutting.GenericHelpers.dll
+C:\projetos\simple-form\src\Formulario.Infra.CrossCutting.GenericHelpers\obj\Debug\net5.0\Formulario.Infra.CrossCutting.GenericHelpers.pdb
+C:\projetos\simple-form\src\Formulario.Infra.CrossCutting.GenericHelpers\obj\Debug\net5.0\ref\Formulario.Infra.CrossCutting.GenericHelpers.dll

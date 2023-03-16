@@ -1,0 +1,36 @@
+pipeline{
+    agent any
+    
+    triggers {
+        pollSCM 'H * * * *'
+    }
+    
+    environment {
+        PROJECT_PATH = "${workspace}\\src\\Formulario.Services.Host\\"
+        BUILDED_PATH = "${PROJECT_PATH}\\bin\\release\net5.0"
+        RELEASE_PATH = ""
+    }
+    
+    stages {
+        stage('Checkout'){
+            steps {
+                git branch: 'dev', url: 'https://github.com/GustavoVictor/simple-form.git'
+            }
+        }
+        stage('Restore packages'){
+            steps{
+                bat "dotnet restore ${PROJECT_PATH}"
+            }
+        }
+        stage('Clean'){
+            steps{
+                bat "dotnet clean ${PROJECT_PATH}"
+            }
+        }
+        stage('Build'){
+            steps{
+                bat "dotnet build ${PROJECT_PATH} --configuration Release"
+            }
+        }
+    }
+}

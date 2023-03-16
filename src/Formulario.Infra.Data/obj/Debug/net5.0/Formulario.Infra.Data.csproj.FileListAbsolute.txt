@@ -10,3 +10,15 @@
 /home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.Data/obj/Debug/net5.0/Formulario.Infra.Data.dll
 /home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.Data/obj/Debug/net5.0/ref/Formulario.Infra.Data.dll
 /home/gustavo/Projects/nca-formulario/api/src/Formulario.Infra.Data/obj/Debug/net5.0/Formulario.Infra.Data.pdb
+C:\projetos\simple-form\src\Formulario.Infra.Data\bin\Debug\net5.0\Formulario.Infra.Data.deps.json
+C:\projetos\simple-form\src\Formulario.Infra.Data\bin\Debug\net5.0\Formulario.Infra.Data.dll
+C:\projetos\simple-form\src\Formulario.Infra.Data\bin\Debug\net5.0\Formulario.Infra.Data.pdb
+C:\projetos\simple-form\src\Formulario.Infra.Data\obj\Debug\net5.0\Formulario.Infra.Data.csproj.AssemblyReference.cache
+C:\projetos\simple-form\src\Formulario.Infra.Data\obj\Debug\net5.0\Formulario.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\simple-form\src\Formulario.Infra.Data\obj\Debug\net5.0\Formulario.Infra.Data.AssemblyInfoInputs.cache
+C:\projetos\simple-form\src\Formulario.Infra.Data\obj\Debug\net5.0\Formulario.Infra.Data.AssemblyInfo.cs
+C:\projetos\simple-form\src\Formulario.Infra.Data\obj\Debug\net5.0\Formulario.Infra.Data.csproj.CoreCompileInputs.cache
+C:\projetos\simple-form\src\Formulario.Infra.Data\obj\Debug\net5.0\Formulario.Infra.Data.dll
+C:\projetos\simple-form\src\Formulario.Infra.Data\obj\Debug\net5.0\refint\Formulario.Infra.Data.dll
+C:\projetos\simple-form\src\Formulario.Infra.Data\obj\Debug\net5.0\Formulario.Infra.Data.pdb
+C:\projetos\simple-form\src\Formulario.Infra.Data\obj\Debug\net5.0\ref\Formulario.Infra.Data.dll
