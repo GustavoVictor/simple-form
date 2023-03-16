@@ -1,11 +1,7 @@
 #!/usr/bin/env groovy 
 pipeline{
     agent any
-    
-    triggers {
-        pollSCM 'H * * * *'
-    }
-    
+        
     environment {
         PROJECT_PATH = "${workspace}\\src\\Formulario.Services.Host\\"
         BUILDED_PATH = "${PROJECT_PATH}\\bin\\release\net5.0"
