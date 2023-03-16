@@ -1,3 +1,4 @@
+#!/usr/bin/env groovy 
 pipeline{
     agent any
     
@@ -12,22 +13,13 @@ pipeline{
     }
     
     stages {
-        stage('Checkout'){
-            steps {
-                git branch: 'dev', url: 'https://github.com/GustavoVictor/simple-form.git'
-            }
-        }
-        stage('Restore packages'){
+        stage('Build'){
             steps{
                 bat "dotnet restore ${PROJECT_PATH}"
             }
-        }
-        stage('Clean'){
             steps{
                 bat "dotnet clean ${PROJECT_PATH}"
             }
-        }
-        stage('Build'){
             steps{
                 bat "dotnet build ${PROJECT_PATH} --configuration Release"
             }
