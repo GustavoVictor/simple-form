@@ -16,11 +16,9 @@ pipeline{
         stage('Build'){
             steps{
                 bat "dotnet restore ${PROJECT_PATH}"
-            }
-            steps{
+            
                 bat "dotnet clean ${PROJECT_PATH}"
-            }
-            steps{
+            
                 bat "dotnet build ${PROJECT_PATH} --configuration Release"
             }
         }
