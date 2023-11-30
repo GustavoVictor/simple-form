@@ -3,7 +3,7 @@ What is the .NET simple-form?
 A form made with .NET 5 and MongoDB for small API. 
 
 ## Get Started
-.NET DevPack can be installed using the Nuget package manager or the `dotnet` CLI.
+Simple from API can be installed using the Nuget package manager or the `dotnet` CLI.
 
 For restore and build the project
 ```
